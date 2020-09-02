@@ -7,5 +7,5 @@ The project aims to analyze the co-occurrence networks formed in each novel from
 * Community detection
 * Link prediction
 
-The datasets used can be found in the repo. The notebook can also be viewed at ![View here](https://github.com/rajtulluri/Game-of-Thrones-network-analysis/blob/master/Game%20of%20Thrones%20character%20network%20analysis.ipynb)
+The datasets used can be found in the repo. The notebook can also be viewed at ![View here](https://nbviewer.jupyter.org/github/rajtulluri/Game-of-Thrones-network-analysis/blob/master/Game%20of%20Thrones%20character%20network%20analysis.ipynb)
 
